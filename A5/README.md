@@ -1,0 +1,3 @@
+This program was really helpful because it helped me understand dictionaries. The use of keys is very helpful, because if I would store the values in lists, I would have to remember which index was for petal_length or petal_width, etc.
+I had a really large code (without comments) before, which I didn't like, and I decided to implement a dictionary of dictionaries and I would use the value from the dictionary from the csv to choose in which dictionary the data would go to.
+This assignment was helpful to me too because I didn't completely understand how string formatting worked and with practice I understood it better.
